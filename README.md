@@ -1,4 +1,2 @@
 # MultiPong
-Multiplayer pong over TCP (Uni. project)
-
-
+Java Multiplayer pong over TCP (Uni. course project)
